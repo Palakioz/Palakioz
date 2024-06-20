@@ -13,7 +13,7 @@ I like programming and love to develop different projects and explore new techno
 - **[Pong Game](#https://github.com/Palakioz/Pong-Game):** My first videogame I created, a simple game of pong.
  
 ## Let's Connect!
-- **LinkedIn:** [in/jorgepalaciospg](#https://www.linkedin.com/in/jorgepalaciospg/)
+- **LinkedIn:** [in/jorgepalaciospg](# https://www.linkedin.com/in/jorgepalaciospg/)
 - **Email:** [jorgepalaciospg@gmail.com](mailto:jorgepalaciospg@gmail.com)
 
 I'm always open to collaborating on interesting projects or discussing new ideas!
