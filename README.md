@@ -1,16 +1,21 @@
-# Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Palakioz/Palakioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jorge Andres Palacios Plascencia, 
+I like programming and love to develop different projects and explore new technologies. My love for programming has make me study coding in college and hope to work in the programming industry. Will work on exciting projects!
 
-Here are some ideas to get you started:
+## About Me
+- **💻 I Know:** WEB Pages, Videogames, Databases
+- **🌐 Languages:** JavaScript, Python, React, Node.js, C++, C#, 
+- **📚 Currently Learning:** Cybersecurity, More Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- **[Coder's Tycoon](#):** A clicker type videogame created with a university team.
+- **[Pong Game](#):** My first videogame I created, a simple game of pong.
+ 
+## Let's Connect!
+- **LinkedIn:** [in/jorgepalaciospg](#)
+- **Email:** [jorgepalaciospg@gmail.com](mailto:jorgepalaciospg@gmail.com)
+
+I'm always open to collaborating on interesting projects or discussing new ideas!
+
+Thanks for visiting my GitHub profile!
