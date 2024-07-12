@@ -9,7 +9,7 @@ I like programming and love to develop different projects and explore new techno
 - **📚 Currently Learning:** Cybersecurity, More Web development
 
 ## My Projects
-- **[Coder's Tycoon](#):** A clicker type videogame created with a university team.
+- **[Coder's Tycoon](https://github.com/Palakioz/Coders-Tycoon-Project):** A clicker type videogame created with a university team.
 - **[Pong Game](https://github.com/Palakioz/Pong-Game):** My first videogame I created, a simple game of pong.
  
 ## Let's Connect!
