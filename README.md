@@ -4,7 +4,7 @@ I'm Jorge Andres Palacios Plascencia,
 I like programming and love to develop different projects and explore new technologies. My love for programming has make me study coding in college and hope to work in the programming industry. Will work on exciting projects!
 
 ## About Me
-- **💻 I Know:** WEB Pages, Videogames, Databases
+- **💻 I Know:** Web Pages, Videogames, Databases
 - **🌐 Languages:** JavaScript, Python, React, Node.js, C++, C#, 
 - **📚 Currently Learning:** Cybersecurity, More Web development
 
