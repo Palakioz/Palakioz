@@ -5,8 +5,8 @@ I like programming and love to develop different projects and explore new techno
 
 ## About Me
 - **💻 I Know:** Web Pages, Videogames, Databases
-- **🌐 Languages:** JavaScript, Python, React, Node.js, C++, C#, 
-- **📚 Currently Learning:** Cybersecurity, More Web development
+- **🌐 Languages:** JavaScript, Python, React, C++, C#, 
+- **📚 Currently Learning:** Cybersecurity
 
 ## My Projects
 - **[Coder's Tycoon](https://github.com/Palakioz/Coders-Tycoon-Project):** A clicker type videogame created with a university team.
