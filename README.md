@@ -4,8 +4,8 @@ I'm Jorge Andres Palacios Plascencia,
 I like programming and love to develop different projects and explore new technologies. My love for programming has make me study coding in college and hope to work in the programming industry. Will work on exciting projects!
 
 ## About Me
-- **💻 I Know:** Web Pages, Videogames, Databases, Software Development
-- **🌐 Languages:** JavaScript, Python, React, C++, C#, 
+- **💻 I Know:** Software Development, Web Pages, Databases, Unity, Cisco, IoT.
+- **🌐 Languages:** JavaScript, Python, React, C++, C#.
 
 ## My Projects
 - **[Coder's Tycoon](https://github.com/Palakioz/Coders-Tycoon-Project):** A clicker type videogame created with a university team.
