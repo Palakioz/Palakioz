@@ -10,6 +10,7 @@ I like programming and love to develop different projects and explore new techno
 ## My Projects
 - **[Coder's Tycoon](https://github.com/Palakioz/Coders-Tycoon-Project):** A clicker type videogame created with a university team.
 - **[Pong Game](https://github.com/Palakioz/Pong-Game):** My first videogame I created, a simple game of pong.
+- **[HackMTY BANORTE](https://github.com/Palakioz/HACKMTY-XORANDOR):** HackMTY BANORTE (XORANDOR Team) - Facilitate the onboarding process and card and investment recommendations within the app with AI technology.
  
 ## Let's Connect!
 - **LinkedIn:** [in/jorgepalaciospg](https://www.linkedin.com/in/jorgepalaciospg/)
