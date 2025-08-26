@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 I'm Jorge Andres Palacios Plascencia, 
-I like programming and love to develop different projects and explore new technologies. My love for programming has make me study coding in college and hope to work in the programming industry. Will work on exciting projects!
+I like programming and love to develop different projects and explore new technologies. My love for programming has make me study coding in university and hope to work in the programming industry. Will work on exciting projects!
 
 ## About Me
 - **💻 I Know:** Software Development, Web Pages, Databases, Unity, Cisco, IoT.
