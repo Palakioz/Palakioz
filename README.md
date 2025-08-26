@@ -5,7 +5,7 @@ I like programming and love to develop different projects and explore new techno
 
 ## About Me
 - **💻 I Know:** Software Development, Web Pages, Databases, Unity, Cisco, IoT.
-- **🌐 Languages:** JavaScript, Python, React, C++, C#, Flutter, Matlan, R-Studio.
+- **🌐 Languages:** JavaScript, Python, React, C++, C#, Flutter, Matlab, R-Studio.
 
 ## My Projects
 - **[Coder's Tycoon](https://github.com/Palakioz/Coders-Tycoon-Project):** A clicker type videogame created with a university team.
